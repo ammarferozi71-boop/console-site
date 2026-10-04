@@ -1,0 +1,1156 @@
+{
+  "categories": [
+    {
+      "id": "9a10d067-6133-5546-af08-7a2208b4bd0e",
+      "slug": "playstation",
+      "name": "PlayStation",
+      "description": "PS5 and PS5 Pro: hardware choices, exclusives and what is coming.",
+      "image_url": ""
+    },
+    {
+      "id": "35437ee2-27ad-5cb3-8ad9-b66d96abcba3",
+      "slug": "xbox",
+      "name": "Xbox",
+      "description": "Xbox Series X|S and Game Pass: which console, which tier and what is included.",
+      "image_url": ""
+    },
+    {
+      "id": "eb07ecb3-c2c7-59c9-98df-baac2ac0269f",
+      "slug": "nintendo",
+      "name": "Nintendo",
+      "description": "Switch and Switch 2: what changed, what is releasing and what to buy.",
+      "image_url": ""
+    },
+    {
+      "id": "6689bb20-0ad1-579e-83c4-60d4999fe7b1",
+      "slug": "handhelds",
+      "name": "Handhelds",
+      "description": "Steam Deck and other handheld gaming PCs, and how they compare with consoles.",
+      "image_url": ""
+    },
+    {
+      "id": "cef24310-dfe2-5fa2-b747-e2207b57d15c",
+      "slug": "releases",
+      "name": "Releases",
+      "description": "What is releasing on each console, and which games skip which one.",
+      "image_url": ""
+    }
+  ],
+  "topics": [
+    {
+      "id": "5f4f1da6-1381-50f6-85fb-c78582bd14e0",
+      "slug": "game-pass",
+      "name": "Game Pass",
+      "description": "Which Game Pass tiers include which games.",
+      "image_url": ""
+    },
+    {
+      "id": "ec93a1a9-af5f-5c76-9ecb-335e41690b7b",
+      "slug": "exclusives",
+      "name": "Exclusives",
+      "description": "Games that are only on one console, or arrive late on another.",
+      "image_url": ""
+    },
+    {
+      "id": "b04a9b30-9e51-5bdd-b17c-7fd775dcf43a",
+      "slug": "buying-advice",
+      "name": "Buying advice",
+      "description": "Which console or handheld fits how you play.",
+      "image_url": ""
+    },
+    {
+      "id": "bb281207-eb24-5f8b-a004-9595cf1d5d3b",
+      "slug": "gears-of-war",
+      "name": "Gears of War",
+      "description": "Gears of War: E-Day on Xbox and Game Pass.",
+      "image_url": ""
+    },
+    {
+      "id": "e71db10b-fcae-5f18-a561-13d289cf5935",
+      "slug": "switch-2",
+      "name": "Switch 2",
+      "description": "Nintendo's Switch 2 console and its games.",
+      "image_url": ""
+    },
+    {
+      "id": "62ed9136-ba5d-5e1e-9e89-059618d6e532",
+      "slug": "ps5-pro",
+      "name": "PS5 Pro",
+      "description": "Sony's PS5 Pro and the games enhanced for it.",
+      "image_url": ""
+    }
+  ],
+  "authors": [
+    {
+      "id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "name": "SaveSlot Editorial",
+      "slug": "saveslot-editorial",
+      "title": "Console and handheld coverage",
+      "bio": "The publication byline for SaveSlot. Coverage is written from publisher, platform holder and store information, with sources linked where figures are quoted. We do not claim hands-on testing.",
+      "avatar_url": "",
+      "created_at": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "articles": [
+    {
+      "id": "282fe05a-4efe-44ea-95d2-333b6ef2f37e",
+      "title": "Handheld Gaming PC or Switch 2: Which Fits How You Play?",
+      "slug": "handheld-pc-vs-switch-2",
+      "excerpt": "A handheld PC like the Steam Deck plays your PC game library. A Switch 2 plays Nintendo's games. How to choose based on the games you want and how much setup you will accept.",
+      "hero_image": "/images/articles/handheld-pc-vs-switch-2.webp",
+      "hero_image_alt": "Comparison table of a handheld gaming PC and the Switch 2",
+      "hero_image_caption": "",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "**Choose by the games you want.** A handheld gaming PC such as the Steam Deck plays PC games you buy on stores like Steam. A Switch 2 plays Nintendo's games, which are not sold on PC."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The short comparison",
+          "id": "the-short-comparison"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "Handheld gaming PC",
+            "Switch 2"
+          ],
+          "rows": [
+            [
+              "**Games**",
+              "Your PC library",
+              "Nintendo and Switch games"
+            ],
+            [
+              "**Nintendo exclusives**",
+              "No",
+              "Yes"
+            ],
+            [
+              "**Game prices**",
+              "Frequent sales on PC stores",
+              "Nintendo games hold their price"
+            ],
+            [
+              "**Setup**",
+              "Some settings to adjust",
+              "Works straight away"
+            ],
+            [
+              "**TV play**",
+              "With a dock, bought separately on many models",
+              "Dock included"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What a handheld gaming PC is good at",
+          "id": "what-a-handheld-gaming-pc-is-good-at"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**A huge library.** If you already own PC games, many of them come with you.",
+            "**Sales.** PC stores discount games often.",
+            "**Flexibility.** You can change graphics settings to trade picture quality for battery life."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "On the Steam Deck, games carry a **Deck Verified** rating that tells you how well each one works on the device. Check it before buying a game for handheld play."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What the Switch 2 is good at",
+          "id": "what-the-switch-2-is-good-at"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**Nintendo's own series,** which you cannot play anywhere else.",
+            "**Simplicity.** Every game is made for the hardware, so there are no settings to tune.",
+            "**Local multiplayer.** The detachable controllers make it easy to share."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Things to check before buying a handheld PC",
+          "id": "things-to-check-before-buying-a-handheld-pc"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**Demanding new games may run poorly or not at all.** Their requirements are written for desktop graphics cards.",
+            "**Windows handhelds** can use more game stores and launchers than the Steam Deck, but need more setup.",
+            "**Battery life** drops quickly in demanding games."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Which to choose",
+          "id": "which-to-choose"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**You want Mario, Zelda and Pokémon:** Switch 2.",
+            "**You have a Steam library and want to play it away from your desk:** a handheld PC.",
+            "**You want one device for a family:** Switch 2 is the easier choice.",
+            "**You like adjusting settings and trying many kinds of games:** a handheld PC."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Many players end up with both, because the game libraries barely overlap."
+        },
+        {
+          "type": "paragraph",
+          "text": "For how the Switch 2 differs from the original, read [Switch 2 vs Switch](/nintendo/switch-2-vs-switch)."
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "6689bb20-0ad1-579e-83c4-60d4999fe7b1",
+      "tags": [
+        "buying-advice",
+        "switch-2"
+      ],
+      "publish_date": "2026-10-03T09:00:00Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": false,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Handheld Gaming PC vs Switch 2: Which One Fits You?",
+      "seo_description": "A handheld PC like the Steam Deck plays your PC game library. A Switch 2 plays Nintendo's games. How to choose based on the games you want and how much setup you will accept.",
+      "canonical_url": null,
+      "social_image": "/images/articles/handheld-pc-vs-switch-2.webp",
+      "reading_time": 1,
+      "created_at": "2026-10-03T09:00:00Z"
+    },
+    {
+      "id": "ff057d9d-89fd-4755-99e5-223135639296",
+      "title": "Xbox Series X vs Series S: Which One Should You Get?",
+      "slug": "xbox-series-x-vs-series-s",
+      "excerpt": "Both Xbox consoles play the same games. The Series X targets 4K and has more storage. The Series S is smaller, cheaper and digital-only. How to choose.",
+      "hero_image": "/images/articles/xbox-series-x-vs-s.webp",
+      "hero_image_alt": "Comparison table of Xbox Series S and Series X",
+      "hero_image_caption": "",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Both consoles play the same Xbox games and work with Game Pass. **The Series X is the more powerful console and targets 4K. The Series S is smaller and cheaper, targets 1440p and has no disc drive.**"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The differences",
+          "id": "the-differences"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "Series S",
+            "Series X"
+          ],
+          "rows": [
+            [
+              "**Target resolution**",
+              "1440p",
+              "4K"
+            ],
+            [
+              "**Memory**",
+              "10 GB",
+              "16 GB"
+            ],
+            [
+              "**Storage**",
+              "512 GB or 1 TB",
+              "1 TB or more"
+            ],
+            [
+              "**Disc drive**",
+              "No",
+              "Yes on the standard model"
+            ],
+            [
+              "**Size**",
+              "Much smaller",
+              "Larger"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The same games on both",
+          "id": "the-same-games-on-both"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every Xbox Series game runs on both consoles. On the Series S, games usually run at a lower resolution and sometimes with reduced visual settings."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Storage is the Series S's weak point",
+          "id": "storage-is-the-series-ss-weak-point"
+        },
+        {
+          "type": "paragraph",
+          "text": "New games are large. Gears of War: E-Day is about 120 GB on Xbox, according to Pure Xbox. On a 512 GB Series S, a handful of games like that fills the drive."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can add space with a Storage Expansion Card. Games made for Series X|S have to run from the internal drive or one of those cards, not from an ordinary USB drive."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "No disc drive on the Series S",
+          "id": "no-disc-drive-on-the-series-s"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Series S is digital-only. You buy games from the store or play them through Game Pass. If you own Xbox games on disc, or like buying used games, that points to the Series X with a disc drive."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Choose the Series S if",
+          "id": "choose-the-series-s-if"
+        },
+        {
+          "type": "list",
+          "items": [
+            "You want the cheapest way into current Xbox games and Game Pass.",
+            "You have a 1080p or 1440p screen.",
+            "You are happy with digital games and will manage storage."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Choose the Series X if",
+          "id": "choose-the-series-x-if"
+        },
+        {
+          "type": "list",
+          "items": [
+            "You have a 4K TV.",
+            "You want more storage from the start.",
+            "You want to play discs."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Game Pass works on both",
+          "id": "game-pass-works-on-both"
+        },
+        {
+          "type": "paragraph",
+          "text": "Both consoles use the same Game Pass tiers. For an example of how the tiers differ for a new release, see [which Game Pass tier includes Gears of War: E-Day](/xbox/gears-of-war-e-day-game-pass-tiers)."
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "35437ee2-27ad-5cb3-8ad9-b66d96abcba3",
+      "tags": [
+        "buying-advice",
+        "game-pass"
+      ],
+      "publish_date": "2026-10-03T11:00:00Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": false,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Xbox Series X vs Series S: Differences and Which to Buy",
+      "seo_description": "Both Xbox consoles play the same games. The Series X targets 4K and has more storage. The Series S is smaller, cheaper and digital-only. How to choose.",
+      "canonical_url": null,
+      "social_image": "/images/articles/xbox-series-x-vs-s.webp",
+      "reading_time": 1,
+      "created_at": "2026-10-03T11:00:00Z"
+    },
+    {
+      "id": "d116274d-fd01-40a1-8c1f-9057552ada7d",
+      "title": "Nintendo Switch 2 vs Switch: What Changed and Is It Worth Upgrading?",
+      "slug": "switch-2-vs-switch",
+      "excerpt": "The Switch 2 has a larger 1080p screen, 4K output when docked, 256 GB of storage and plays most original Switch games. What changed and who should upgrade.",
+      "hero_image": "/images/articles/switch-2-vs-switch.webp",
+      "hero_image_alt": "Comparison table of the Switch and Switch 2",
+      "hero_image_caption": "",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "The Switch 2 keeps the same idea as the original: one console you play handheld or on a TV. **It has a bigger, sharper screen, much more power, 256 GB of storage and plays most original Switch games.**"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The differences",
+          "id": "the-differences"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "Switch",
+            "Switch 2"
+          ],
+          "rows": [
+            [
+              "**Screen**",
+              "6.2 inch, 720p (7 inch on the OLED model)",
+              "7.9 inch, 1080p, up to 120 Hz"
+            ],
+            [
+              "**On a TV**",
+              "Up to 1080p",
+              "Up to 4K"
+            ],
+            [
+              "**Storage**",
+              "32 GB (64 GB on the OLED model)",
+              "256 GB"
+            ],
+            [
+              "**Memory cards**",
+              "microSD",
+              "microSD Express only"
+            ],
+            [
+              "**Controllers**",
+              "Joy-Con, slide on",
+              "Joy-Con 2, attach magnetically"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What is new",
+          "id": "what-is-new"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**A bigger, sharper screen** that can refresh up to 120 times a second.",
+            "**4K output** when docked to a TV.",
+            "**Joy-Con 2 controllers** that attach with magnets and can be used like a mouse in supported games.",
+            "**GameChat**, a built-in voice and video chat feature."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Your old games",
+          "id": "your-old-games"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Switch 2 plays most original Switch games, both cartridges and downloads. Some have paid or free upgrades that improve them on the new console."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The memory card catch",
+          "id": "the-memory-card-catch"
+        },
+        {
+          "type": "paragraph",
+          "text": "Switch 2 games can only be stored on **microSD Express** cards. Standard microSD cards from your old Switch will not work for Switch 2 games, so budget for a new card if 256 GB is not enough."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Worth upgrading?",
+          "id": "worth-upgrading"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**Yes, if you want the new games.** More and more big releases are Switch 2 only. Call of Duty: Modern Warfare 4 arrives on Switch 2 on October 23, and a Switch 2 version of Minecraft follows on October 27.",
+            "**Yes, if you play on a 4K TV** and want a sharper picture.",
+            "**Maybe not yet, if you mostly play older Switch games.** They still work on the console you have."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Switch 2 launched on June 5, 2025 at $449.99 in the US. Check current prices and bundles before buying."
+        },
+        {
+          "type": "paragraph",
+          "text": "For this month's releases on every console, see the [October 2026 console release calendar](/releases/october-2026-console-game-releases)."
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "eb07ecb3-c2c7-59c9-98df-baac2ac0269f",
+      "tags": [
+        "switch-2",
+        "buying-advice"
+      ],
+      "publish_date": "2026-10-03T13:00:00Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": true,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Nintendo Switch 2 vs Switch: What Changed, Worth Upgrading?",
+      "seo_description": "The Switch 2 has a larger 1080p screen, 4K output when docked, 256 GB of storage and plays most original Switch games. What changed and who should upgrade.",
+      "canonical_url": null,
+      "social_image": "/images/articles/switch-2-vs-switch.webp",
+      "reading_time": 1,
+      "created_at": "2026-10-03T13:00:00Z"
+    },
+    {
+      "id": "15e21c4d-71c2-4875-9e96-647768c92a53",
+      "title": "PS5 vs PS5 Pro: What the Pro Changes and Who It Is For",
+      "slug": "ps5-vs-ps5-pro",
+      "excerpt": "The PS5 Pro has a faster graphics chip, Sony's PSSR upscaling and 2 TB of storage, but no disc drive in the box. What actually changes and who should buy it.",
+      "hero_image": "/images/articles/ps5-vs-ps5-pro.webp",
+      "hero_image_alt": "Comparison table of the PS5 and PS5 Pro",
+      "hero_image_caption": "",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "The PS5 Pro plays the same games as the standard PS5. What it adds is **a faster graphics chip, an upscaling feature called PSSR and a 2 TB drive**. It does not come with a disc drive."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The differences",
+          "id": "the-differences"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "PS5",
+            "PS5 Pro"
+          ],
+          "rows": [
+            [
+              "**Games**",
+              "All PS5 games",
+              "All PS5 games"
+            ],
+            [
+              "**Graphics**",
+              "Standard",
+              "Faster graphics chip"
+            ],
+            [
+              "**Upscaling**",
+              "Standard",
+              "PSSR, Sony's AI upscaling"
+            ],
+            [
+              "**Storage**",
+              "1 TB",
+              "2 TB"
+            ],
+            [
+              "**Disc drive**",
+              "Included or digital-only, depending on model",
+              "Not included. Sold separately"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What the Pro actually improves",
+          "id": "what-the-pro-actually-improves"
+        },
+        {
+          "type": "paragraph",
+          "text": "Many PS5 games make you choose between a sharper picture and a smoother frame rate. The Pro is built to give you more of both at once in games that support it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sony said at launch that the Pro's graphics chip renders about 45% faster than the standard console's. Games updated for it carry a **PS5 Pro Enhanced** label on the store."
+        },
+        {
+          "type": "paragraph",
+          "text": "A game without that label still runs on the Pro, but it may look and play the same as on a standard PS5."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What it does not change",
+          "id": "what-it-does-not-change"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**There are no Pro-only games.** Everything runs on both consoles.",
+            "**Loading is not meaningfully faster.** Both use a fast SSD.",
+            "**Your controller, saves and library are the same.**"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The disc drive catch",
+          "id": "the-disc-drive-catch"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Pro has no disc drive in the box. If you own games or films on disc, you need to buy the detachable drive separately. Add that to the cost before comparing prices."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Who should buy the Pro",
+          "id": "who-should-buy-the-pro"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**You have a 4K TV and care about picture quality.** This is who it was made for.",
+            "**You play the newest big-budget games** and want the best version on console."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Who should keep the standard PS5",
+          "id": "who-should-keep-the-standard-ps5"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**You have a 1080p TV.** You will see far less of the benefit.",
+            "**You mostly play older or less demanding games.**",
+            "**Price matters.** The Pro launched at $699.99 in the US in November 2024, well above the standard console. Check current prices before deciding."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Phantom Blade Zero is one upcoming game with confirmed PS5 Pro enhancements, though its developer has not yet said what they are. See [which October 2026 games are not on your console](/releases/october-2026-console-exclusives)."
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "9a10d067-6133-5546-af08-7a2208b4bd0e",
+      "tags": [
+        "ps5-pro",
+        "buying-advice"
+      ],
+      "publish_date": "2026-10-03T15:00:00Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": true,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "PS5 vs PS5 Pro: What the Pro Changes and Who Needs It",
+      "seo_description": "The PS5 Pro has a faster graphics chip, Sony's PSSR upscaling and 2 TB of storage, but no disc drive in the box. What actually changes and who should buy it.",
+      "canonical_url": null,
+      "social_image": "/images/articles/ps5-vs-ps5-pro.webp",
+      "reading_time": 2,
+      "created_at": "2026-10-03T15:00:00Z"
+    },
+    {
+      "id": "f38f168e-bc22-427a-9fcf-3bf2f1b18921",
+      "title": "Gears of War: E-Day on Game Pass: Which Tier Do You Need?",
+      "slug": "gears-of-war-e-day-game-pass-tiers",
+      "excerpt": "Gears of War: E-Day is on Game Pass Ultimate and PC Game Pass from October 6. Premium gets it later and Essential does not include it. Early access costs extra.",
+      "hero_image": "/images/games/gears-of-war-e-day.jpg",
+      "hero_image_alt": "Gears of War: E-Day official screenshot",
+      "hero_image_caption": "Image: Xbox Game Studios / Steam",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "**Gears of War: E-Day is included with Game Pass Ultimate and PC Game Pass from its launch day, October 6, 2026.** It is not included with Game Pass Essential, and Game Pass Premium members have to wait."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Which tier includes it",
+          "id": "which-tier-includes-it"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Game Pass tier",
+            "Gears of War: E-Day"
+          ],
+          "rows": [
+            [
+              "**Ultimate**",
+              "Included from October 6"
+            ],
+            [
+              "**PC Game Pass**",
+              "Included from October 6"
+            ],
+            [
+              "**Premium**",
+              "Not at launch. Expected later, reported as around October 2027"
+            ],
+            [
+              "**Essential**",
+              "Not included"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This breakdown comes from Pure Xbox's launch guide."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Game Pass does not include early access",
+          "id": "game-pass-does-not-include-early-access"
+        },
+        {
+          "type": "paragraph",
+          "text": "Early access began on October 1 for owners of the Premium Edition or Collector's Edition. A Game Pass subscription alone does not unlock it."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you subscribe and want to start early, you can buy the **Premium Upgrade**, which adds early access and the Premium Edition's bonus content to the Game Pass version."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Where you can play it",
+          "id": "where-you-can-play-it"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**Xbox Series X|S:** yes",
+            "**PC:** yes, through the Xbox app and Steam",
+            "**Xbox One:** through cloud gaming only",
+            "**PS5 and Switch 2:** no version announced"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Digital copies support **Xbox Play Anywhere**, so buying it once covers both Xbox and PC."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How much space you need",
+          "id": "how-much-space-you-need"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pure Xbox lists the install at about 120.5 GB on Xbox Series X|S. Check your free space before launch day, because that is a large share of a Series S drive."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Should you subscribe or buy?",
+          "id": "should-you-subscribe-or-buy"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**You already have Ultimate or PC Game Pass:** you can play on October 6 at no extra cost.",
+            "**You have Premium or Essential:** you would need to upgrade your tier or buy the game.",
+            "**You only want this one game and will keep playing for months:** compare the price of the game with the cost of the months you would subscribe."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sources",
+          "id": "sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Pure Xbox, Gears of War E-Day release date, release times and Game Pass](https://www.purexbox.com/guides/gears-of-war-e-day-release-date-release-times-and-everything-you-need-to-know-on-xbox-and-pc)",
+            "[Xbox, Gears of War E-Day official page](https://www.xbox.com/en-US/games/gears-of-war-eday)"
+          ]
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "35437ee2-27ad-5cb3-8ad9-b66d96abcba3",
+      "tags": [
+        "game-pass",
+        "gears-of-war"
+      ],
+      "publish_date": "2026-10-04T07:30:00Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": true,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Gears of War: E-Day on Game Pass: Which Tier Includes It?",
+      "seo_description": "Gears of War: E-Day is on Game Pass Ultimate and PC Game Pass from October 6. Premium gets it later and Essential does not include it. Early access costs extra.",
+      "canonical_url": null,
+      "social_image": "/images/games/gears-of-war-e-day.jpg",
+      "reading_time": 1,
+      "created_at": "2026-10-04T07:30:00Z"
+    },
+    {
+      "id": "a7bb412f-c5b3-434c-b900-f737d58a94cf",
+      "title": "Which October 2026 Games Are Not on Your Console?",
+      "slug": "october-2026-console-exclusives",
+      "excerpt": "Gears of War: E-Day skips PS5. Phantom Blade Zero skips Xbox. Enshrouded reaches Xbox months late. Here is what each console misses in October 2026.",
+      "hero_image": "/images/games/phantom-blade-zero.jpg",
+      "hero_image_alt": "Phantom Blade Zero official screenshot",
+      "hero_image_caption": "Image: S-GAME / Steam",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Most of October 2026's big games are on both PS5 and Xbox, but four are not. **Gears of War: E-Day is on Xbox and PC only. Phantom Blade Zero is on PS5 and PC only.**"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The games that skip a console",
+          "id": "the-games-that-skip-a-console"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Game",
+            "On",
+            "Not on",
+            "Status"
+          ],
+          "rows": [
+            [
+              "**Gears of War: E-Day**",
+              "Xbox Series X|S, PC",
+              "PS5, Switch 2",
+              "No other versions announced"
+            ],
+            [
+              "**Phantom Blade Zero**",
+              "PS5, PC",
+              "Xbox, Switch 2",
+              "12-month PS5 console exclusivity reported"
+            ],
+            [
+              "**Enshrouded 1.0**",
+              "PS5, PC",
+              "Xbox until spring 2027",
+              "Delayed version confirmed"
+            ],
+            [
+              "**Warhammer 40,000: Boltgun 2**",
+              "PS5, Xbox, PC",
+              "Switch 2 at launch",
+              "Switch 2 version follows shortly after"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Gears of War: E-Day",
+          "id": "gears-of-war-e-day"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Gears prequel launches on October 6 on Xbox Series X|S and PC. No PS5 or Switch 2 version has been announced. Xbox One owners can play through cloud gaming only."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Phantom Blade Zero",
+          "id": "phantom-blade-zero"
+        },
+        {
+          "type": "paragraph",
+          "text": "S-GAME's action game launches on October 29 on PS5 and PC. No Xbox version has been announced. Wccftech has reported a 12-month console exclusivity window for PS5, which the studio has not detailed publicly, so treat that as reported and not confirmed."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Enshrouded 1.0",
+          "id": "enshrouded-10"
+        },
+        {
+          "type": "paragraph",
+          "text": "The survival game leaves early access on October 15 on PC and PS5. The Xbox version has been pushed to spring 2027, with no exact date."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Warhammer 40,000: Boltgun 2",
+          "id": "warhammer-40000-boltgun-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Boltgun 2 arrives on October 14 on PS5, Xbox Series X|S and PC. The Switch 2 version is confirmed but comes \"shortly after\" the others, according to the announcement."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What this means if you are choosing a console",
+          "id": "what-this-means-if-you-are-choosing-a-console"
+        },
+        {
+          "type": "paragraph",
+          "text": "One month of releases is not a reason to buy a console. Exclusives change from month to month. Look at the series you care about most over a year or more, and which console your friends play on."
+        },
+        {
+          "type": "paragraph",
+          "text": "For every release this month by date and console, see the [October 2026 console release calendar](/releases/october-2026-console-game-releases)."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sources",
+          "id": "sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Pure Xbox, Gears of War E-Day release date and platforms](https://www.purexbox.com/guides/gears-of-war-e-day-release-date-release-times-and-everything-you-need-to-know-on-xbox-and-pc)",
+            "[Wccftech, Phantom Blade Zero everything we know](https://wccftech.com/roundup/phantom-blade-zero-everything-we-know-release-date-price-specs/)",
+            "[Wccftech, Enshrouded 1.0 on PC and PS5 with Xbox in spring 2027](https://wccftech.com/enshrouded-october-15-1-0-pc-ps5-xbox-spring-2027/)",
+            "[Wikipedia, Warhammer 40,000 Boltgun 2](https://en.wikipedia.org/wiki/Warhammer_40,000:_Boltgun_2)"
+          ]
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "cef24310-dfe2-5fa2-b747-e2207b57d15c",
+      "tags": [
+        "exclusives",
+        "gears-of-war",
+        "ps5-pro"
+      ],
+      "publish_date": "2026-10-04T09:00:00Z",
+      "updated_date": null,
+      "featured": true,
+      "trending": false,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "October 2026 Console Exclusives: What PS5 and Xbox Each Miss",
+      "seo_description": "Gears of War: E-Day skips PS5. Phantom Blade Zero skips Xbox. Enshrouded reaches Xbox months late. Here is what each console misses in October 2026.",
+      "canonical_url": null,
+      "social_image": "/images/games/phantom-blade-zero.jpg",
+      "reading_time": 2,
+      "created_at": "2026-10-04T09:00:00Z"
+    },
+    {
+      "id": "06662b38-0234-4b5a-bb5e-a9ebc8f79400",
+      "title": "October 2026 Console Game Releases: What Is Coming to PS5, Xbox and Switch",
+      "slug": "october-2026-console-game-releases",
+      "excerpt": "Every big console release in October 2026, with the consoles each one is on. Gears of War: E-Day, Modern Warfare 4, Phantom Blade Zero and more.",
+      "hero_image": "/images/articles/october-2026-console-calendar.webp",
+      "hero_image_alt": "Chart of October 2026 games and the consoles each one is on",
+      "hero_image_caption": "",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "October 2026 is a crowded month for console players. Here are the big releases by date, with the consoles each one is confirmed for."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Release calendar",
+          "id": "release-calendar"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Date",
+            "Game",
+            "PS5",
+            "Xbox Series X|S",
+            "Nintendo"
+          ],
+          "rows": [
+            [
+              "**Oct 2**",
+              "Ace Combat 8: Wings of Theve",
+              "Yes",
+              "Yes",
+              "No"
+            ],
+            [
+              "**Oct 6**",
+              "Gears of War: E-Day",
+              "No",
+              "Yes",
+              "No"
+            ],
+            [
+              "**Oct 6**",
+              "Star Wars: Galactic Racer",
+              "Yes",
+              "Yes",
+              "No"
+            ],
+            [
+              "**Oct 13**",
+              "Valor Mortis",
+              "Yes",
+              "Yes",
+              "No"
+            ],
+            [
+              "**Oct 14**",
+              "Warhammer 40,000: Boltgun 2",
+              "Yes",
+              "Yes",
+              "Switch 2, later"
+            ],
+            [
+              "**Oct 15**",
+              "Castlevania: Belmont's Curse",
+              "Yes",
+              "Yes",
+              "Switch"
+            ],
+            [
+              "**Oct 15**",
+              "Enshrouded 1.0",
+              "Yes",
+              "Spring 2027",
+              "No"
+            ],
+            [
+              "**Oct 23**",
+              "Call of Duty: Modern Warfare 4",
+              "Yes",
+              "Yes",
+              "Switch 2"
+            ],
+            [
+              "**Oct 27**",
+              "Minecraft (Switch 2 version)",
+              "No",
+              "No",
+              "Switch 2"
+            ],
+            [
+              "**Oct 29**",
+              "Phantom Blade Zero",
+              "Yes",
+              "No",
+              "No"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "\"No\" means no version has been announced for that console."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "If you own a PS5",
+          "id": "if-you-own-a-ps5"
+        },
+        {
+          "type": "paragraph",
+          "text": "You get almost everything this month. The two things you miss are **Gears of War: E-Day**, which is on Xbox and PC only, and the Switch 2 version of Minecraft."
+        },
+        {
+          "type": "paragraph",
+          "text": "**Phantom Blade Zero** and **Enshrouded 1.0** both arrive on PS5 without an Xbox version at launch."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "If you own an Xbox Series X|S",
+          "id": "if-you-own-an-xbox-series-x-s"
+        },
+        {
+          "type": "paragraph",
+          "text": "**Gears of War: E-Day** is the headline, and it is on Game Pass from day one. See [which Game Pass tier includes Gears of War: E-Day](/xbox/gears-of-war-e-day-game-pass-tiers)."
+        },
+        {
+          "type": "paragraph",
+          "text": "You miss **Phantom Blade Zero**, and **Enshrouded** does not reach Xbox until spring 2027."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "If you own a Switch or Switch 2",
+          "id": "if-you-own-a-switch-or-switch-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "The list is shorter, but there are three notable arrivals:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**Castlevania: Belmont's Curse** on October 15",
+            "**Call of Duty: Modern Warfare 4** on Switch 2 on October 23",
+            "**Minecraft**, in a version built for Switch 2, on October 27"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Warhammer 40,000: Boltgun 2 is also coming to Switch 2, shortly after the other versions."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Which games skip which console",
+          "id": "which-games-skip-which-console"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the full picture of this month's exclusives and delayed versions, read [which October 2026 games are not on your console](/releases/october-2026-console-exclusives)."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sources",
+          "id": "sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Pure Xbox, all new games coming to Xbox in October 2026](https://www.purexbox.com/features/all-new-games-coming-to-xbox-in-october-2026)",
+            "[FullCleared, the top games to play in October 2026](https://fullcleared.com/recommendations/the-top-games-to-play-in-october-2026/)",
+            "[Wikipedia, Warhammer 40,000 Boltgun 2](https://en.wikipedia.org/wiki/Warhammer_40,000:_Boltgun_2)",
+            "[Wikipedia, Castlevania Belmont's Curse](https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse)",
+            "[Wccftech, Enshrouded 1.0 on PC and PS5 with Xbox in spring 2027](https://wccftech.com/enshrouded-october-15-1-0-pc-ps5-xbox-spring-2027/)"
+          ]
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "cef24310-dfe2-5fa2-b747-e2207b57d15c",
+      "tags": [
+        "exclusives",
+        "switch-2",
+        "game-pass"
+      ],
+      "publish_date": "2026-10-04T10:30:00Z",
+      "updated_date": null,
+      "featured": true,
+      "trending": true,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "October 2026 Console Releases: PS5, Xbox and Switch by Date",
+      "seo_description": "Every big console release in October 2026, with the consoles each one is on. Gears of War: E-Day, Modern Warfare 4, Phantom Blade Zero and more.",
+      "canonical_url": null,
+      "social_image": "/images/articles/october-2026-console-calendar.webp",
+      "reading_time": 2,
+      "created_at": "2026-10-04T10:30:00Z"
+    }
+  ],
+  "deals": [],
+  "assets": {}
+}
