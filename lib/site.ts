@@ -9,6 +9,8 @@ export const SITE_TAGLINE = 'Console and handheld gaming, sorted by what you own
 export const SITE_DESCRIPTION =
   'PlayStation, Xbox, Nintendo and handheld gaming: what is releasing on your console, what is exclusive and which hardware to choose.';
 export const SITE_URL_RESOLVED = SITE_URL;
+// Google Search Console verification code (the content value of the google-site-verification tag).
+export const GOOGLE_SITE_VERIFICATION = (process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '').trim();
 // Public contact address. Set NEXT_PUBLIC_CONTACT_EMAIL to enable the Contact page.
 export const CONTACT_EMAIL = (process.env.NEXT_PUBLIC_CONTACT_EMAIL || '').trim();
 
