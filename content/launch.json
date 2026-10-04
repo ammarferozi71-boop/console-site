@@ -78,6 +78,20 @@
       "name": "PS5 Pro",
       "description": "Sony's PS5 Pro and the games enhanced for it.",
       "image_url": ""
+    },
+    {
+      "id": "8d1c3a6f-2e1b-4d2f-8b22-000000000001",
+      "slug": "gta",
+      "name": "GTA",
+      "description": "GTA 6 on consoles: platforms, editions and preload.",
+      "image_url": ""
+    },
+    {
+      "id": "8d1c3a6f-2e1b-4d2f-8b22-000000000002",
+      "slug": "call-of-duty",
+      "name": "Call of Duty",
+      "description": "Call of Duty on consoles, including Switch 2.",
+      "image_url": ""
     }
   ],
   "authors": [
@@ -96,7 +110,7 @@
       "id": "282fe05a-4efe-44ea-95d2-333b6ef2f37e",
       "title": "Handheld Gaming PC or Switch 2: Which Fits How You Play?",
       "slug": "handheld-pc-vs-switch-2",
-      "excerpt": "A handheld PC like the Steam Deck plays your PC game library. A Switch 2 plays Nintendo's games. How to choose based on the games you want and how much setup you will accept.",
+      "excerpt": "A handheld PC like the Steam Deck plays your PC library. A Switch 2 plays Nintendo's games. How to choose by the games you want and the setup you accept.",
       "hero_image": "/images/articles/handheld-pc-vs-switch-2.webp",
       "hero_image_alt": "Comparison table of a handheld gaming PC and the Switch 2",
       "hero_image_caption": "",
@@ -230,7 +244,7 @@
       "review_score": null,
       "review_product": null,
       "seo_title": "Handheld Gaming PC vs Switch 2: Which One Fits You?",
-      "seo_description": "A handheld PC like the Steam Deck plays your PC game library. A Switch 2 plays Nintendo's games. How to choose based on the games you want and how much setup you will accept.",
+      "seo_description": "A handheld PC like the Steam Deck plays your PC library. A Switch 2 plays Nintendo's games. How to choose by the games you want and the setup you accept.",
       "canonical_url": null,
       "social_image": "/images/articles/handheld-pc-vs-switch-2.webp",
       "reading_time": 1,
@@ -769,6 +783,10 @@
           ]
         },
         {
+          "type": "paragraph",
+          "text": "Choosing a console for it? See [Xbox Series X vs Series S](/xbox/xbox-series-x-vs-series-s)."
+        },
+        {
           "type": "heading",
           "level": 2,
           "text": "Sources",
@@ -1149,6 +1167,371 @@
       "social_image": "/images/articles/october-2026-console-calendar.webp",
       "reading_time": 2,
       "created_at": "2026-10-04T10:30:00Z"
+    },
+    {
+      "id": "839a65b4-35e3-49b0-8b76-ea4f67395a80",
+      "title": "Modern Warfare 4 on Switch 2: Release Date, Crossplay and What Is Confirmed",
+      "slug": "modern-warfare-4-switch-2",
+      "excerpt": "Call of Duty: Modern Warfare 4 comes to Nintendo Switch 2 on October 23, 2026, the same day as other platforms, with crossplay. What is confirmed so far.",
+      "hero_image": "/images/articles/modern-warfare-4-switch-2.webp",
+      "hero_image_alt": "Modern Warfare 4 on Switch 2: October 23, 2026, crossplay confirmed, file size not announced",
+      "hero_image_caption": "",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "**Call of Duty: Modern Warfare 4 launches on Nintendo Switch 2 on October 23, 2026, the same day as PS5, Xbox Series X|S and PC.** The developers say it supports **crossplay** with the other platforms. It is the first Call of Duty on Nintendo hardware since Call of Duty: Ghosts in 2013."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "At a glance",
+          "id": "at-a-glance"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "Details"
+          ],
+          "rows": [
+            [
+              "**Switch 2 release date**",
+              "October 23, 2026"
+            ],
+            [
+              "**Same day as other platforms**",
+              "Yes"
+            ],
+            [
+              "**Crossplay**",
+              "Yes, according to Infinity Ward"
+            ],
+            [
+              "**Switch 2 partner developer**",
+              "Digital Legends"
+            ],
+            [
+              "**Original Switch version**",
+              "Not announced"
+            ],
+            [
+              "**File size on Switch 2**",
+              "Not announced"
+            ],
+            [
+              "**Frame rate on Switch 2**",
+              "Not announced"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Crossplay",
+          "id": "crossplay"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jack O'Hara, co-studio head at Infinity Ward, told GamesRadar: \"Right now we support crossplay between Switch 2 and the rest of the platforms.\""
+        },
+        {
+          "type": "paragraph",
+          "text": "The words \"right now\" are worth noting. That was the position when he spoke in May 2026, so check the final details at launch."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Is it the full game?",
+          "id": "is-it-the-full-game"
+        },
+        {
+          "type": "paragraph",
+          "text": "Microsoft's agreement with Nintendo commits to bringing Call of Duty to Nintendo consoles with full feature and content parity. On that basis the Switch 2 version is expected to have the same modes and content as other versions."
+        },
+        {
+          "type": "paragraph",
+          "text": "O'Hara also said the game \"got up and running on the platform really quickly\" once the team had the hardware."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Who is making the Switch 2 version",
+          "id": "who-is-making-the-switch-2-version"
+        },
+        {
+          "type": "paragraph",
+          "text": "Activision has named **Digital Legends** as the partner developer for the Switch 2 version, as reported by Nintendo Life. The studio has been part of Activision since 2021."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What we do not know yet",
+          "id": "what-we-do-not-know-yet"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**File size.** Not announced. On PC the game needs 115 GB, and the Switch 2 has 256 GB of built-in storage, so plan your space. Switch 2 games can only be stored on microSD Express cards.",
+            "**Frame rate and resolution.** Not announced.",
+            "**Mouse controls with Joy-Con 2.** Not confirmed."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Not on the original Switch",
+          "id": "not-on-the-original-switch"
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern Warfare 4 has been announced for Switch 2 only. For what separates the two consoles, read [Switch 2 vs Switch](/nintendo/switch-2-vs-switch)."
+        },
+        {
+          "type": "paragraph",
+          "text": "For everything else arriving this month, see the [October 2026 console release calendar](/releases/october-2026-console-game-releases)."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sources",
+          "id": "sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[GamesRadar, Modern Warfare 4 supports crossplay between Switch 2 and other platforms](https://www.gamesradar.com/games/call-of-duty/right-now-we-support-crossplay-between-switch-2-and-the-rest-of-the-platforms-modern-warfare-4-ends-the-13-year-wait-for-call-of-duty-to-return-to-nintendo-hardware/)",
+            "[Nintendo Life, Modern Warfare 4 Switch 2 partner developer revealed](https://www.nintendolife.com/news/2026/08/call-of-duty-modern-warfare-4-switch-2-partner-developer-revealed-by-activision)"
+          ]
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "eb07ecb3-c2c7-59c9-98df-baac2ac0269f",
+      "tags": [
+        "call-of-duty",
+        "switch-2"
+      ],
+      "publish_date": "2026-10-04T11:15:00Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": true,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Modern Warfare 4 on Switch 2: Release Date & Crossplay",
+      "seo_description": "Call of Duty: Modern Warfare 4 comes to Nintendo Switch 2 on October 23, 2026, the same day as other platforms, with crossplay. What is confirmed so far.",
+      "canonical_url": null,
+      "social_image": "/images/articles/modern-warfare-4-switch-2.webp",
+      "reading_time": 2,
+      "created_at": "2026-10-04T11:15:00Z"
+    },
+    {
+      "id": "046a2bd4-9165-4329-b05a-d14f63c5c864",
+      "title": "Is GTA 6 on Your Console? PS5, Xbox Series S, PS4, Switch 2 and PC Answered",
+      "slug": "gta-6-platforms-ps5-xbox-pc-switch-2",
+      "excerpt": "GTA 6 launches November 19, 2026 on PS5 and Xbox Series X|S only. It is not announced for PS4, Xbox One, Switch 2 or PC. Each platform answered.",
+      "hero_image": "/images/articles/gta-6-platforms.webp",
+      "hero_image_alt": "GTA 6 platforms: yes on PS5, PS5 Pro, Xbox Series X and S; not announced for PS4, Xbox One, Switch 2 or PC",
+      "hero_image_caption": "",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "**GTA 6 launches on November 19, 2026 on PlayStation 5 and Xbox Series X|S.** Those are the only announced platforms. Here is the answer for each console."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Platform by platform",
+          "id": "platform-by-platform"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Platform",
+            "GTA 6 at launch?"
+          ],
+          "rows": [
+            [
+              "**PS5**",
+              "Yes"
+            ],
+            [
+              "**PS5 Pro**",
+              "Yes, listed as PS5 Pro Enhanced"
+            ],
+            [
+              "**Xbox Series X**",
+              "Yes"
+            ],
+            [
+              "**Xbox Series S**",
+              "Yes"
+            ],
+            [
+              "**PS4**",
+              "No version announced"
+            ],
+            [
+              "**Xbox One**",
+              "No version announced"
+            ],
+            [
+              "**Nintendo Switch 2**",
+              "No version announced"
+            ],
+            [
+              "**PC**",
+              "No version announced"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "PS5 and PS5 Pro",
+          "id": "ps5-and-ps5-pro"
+        },
+        {
+          "type": "paragraph",
+          "text": "GTA 6 is confirmed for PS5. It is listed as enhanced for PS5 Pro, but Rockstar has not said what the Pro improves. If you are deciding between the two consoles, read [PS5 vs PS5 Pro](/playstation/ps5-vs-ps5-pro)."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Xbox Series X and Series S",
+          "id": "xbox-series-x-and-series-s"
+        },
+        {
+          "type": "paragraph",
+          "text": "Both Xbox Series consoles are included. Rockstar has not published resolution or frame rate targets for either one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Storage is the thing to plan for on a Series S. The install size has not been announced, and a 512 GB console does not have much room. See [Xbox Series X vs Series S](/xbox/xbox-series-x-vs-series-s) for how storage differs."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "PS4 and Xbox One",
+          "id": "ps4-and-xbox-one"
+        },
+        {
+          "type": "paragraph",
+          "text": "GTA 6 has not been announced for the previous generation of consoles. You need a PS5 or an Xbox Series console."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Nintendo Switch 2",
+          "id": "nintendo-switch-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "No Switch 2 version has been announced."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "PC",
+          "id": "pc"
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no PC version at launch and none has been announced. Rockstar's last two big games reached PC after their console releases, so many players expect the same again, but Rockstar has not confirmed it or given a date."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Price and preload on console",
+          "id": "price-and-preload-on-console"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**Standard Edition:** $79.99 in the US",
+            "**Ultimate Edition:** $99.99 in the US",
+            "**Preload:** from November 12, 2026 for digital pre-orders"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Quick answers",
+          "id": "quick-answers"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Is GTA 6 on Xbox Series S?",
+          "id": "is-gta-6-on-xbox-series-s"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes. It launches on Xbox Series X and Series S."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Is GTA 6 on PS4?",
+          "id": "is-gta-6-on-ps4"
+        },
+        {
+          "type": "paragraph",
+          "text": "No version has been announced."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Is GTA 6 coming to Switch 2?",
+          "id": "is-gta-6-coming-to-switch-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "No version has been announced."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Will GTA 6 come to PC?",
+          "id": "will-gta-6-come-to-pc"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not at launch, and no PC version has been announced."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sources",
+          "id": "sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[IBTimes UK, GTA 6 release date, preload time, price, editions and platforms](https://www.ibtimes.co.uk/gta-6-release-date-pre-load-time-price-editions-platforms-confirmed-rockstar-1819557)",
+            "[SVG, GTA 6 launch guide](https://www.svg.com/2254292/gta-6-launch-guide-release-date-preload-time-price-editions-platforms/)"
+          ]
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "cef24310-dfe2-5fa2-b747-e2207b57d15c",
+      "tags": [
+        "gta",
+        "ps5-pro",
+        "buying-advice"
+      ],
+      "publish_date": "2026-10-04T11:50:00Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": true,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Is GTA 6 on PS4, Xbox Series S, Switch 2 or PC?",
+      "seo_description": "GTA 6 launches November 19, 2026 on PS5 and Xbox Series X|S only. It is not announced for PS4, Xbox One, Switch 2 or PC. Each platform answered.",
+      "canonical_url": null,
+      "social_image": "/images/articles/gta-6-platforms.webp",
+      "reading_time": 2,
+      "created_at": "2026-10-04T11:50:00Z"
     },
     {
       "id": "cb1eff46-09a3-4b1b-aea7-8fc35866468b",
