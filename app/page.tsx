@@ -1,3 +1,4 @@
+import { DiscoveryPaths } from '@/components/editorial/DiscoveryPaths';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getLatestArticles, getFeaturedArticles, getCategories } from '@/lib/queries';
@@ -80,7 +81,7 @@ export default async function HomePage() {
             <li key={platform.id}>
               <Link
                 href={`/${platform.slug}`}
-                className="flex h-full min-h-[8.5rem] flex-col justify-end rounded-3xl p-5 text-white transition-transform hover:-translate-y-1"
+                className="platform-tile flex h-full min-h-[8.5rem] flex-col justify-end rounded-3xl p-5 text-white transition-transform hover:-translate-y-1"
                 style={{ backgroundColor: PLATFORM_COLORS[platform.slug] }}
               >
                 <span className="text-2xl font-extrabold tracking-tight">{platform.name}</span>
@@ -91,6 +92,7 @@ export default async function HomePage() {
         </ul>
       </section>
 
+      <DiscoveryPaths />
       {lead && (
         <section className="mx-auto max-w-6xl px-4 pt-12 sm:px-6">
           <h2 className="text-2xl font-extrabold tracking-tight">This month on consoles</h2>
@@ -105,7 +107,7 @@ export default async function HomePage() {
                 width={1600}
                 height={900}
                 priority
-                className="h-full w-full object-cover"
+                className="h-auto w-full self-center object-contain"
               />
             )}
             <div className="flex flex-col justify-center p-6 sm:p-8">

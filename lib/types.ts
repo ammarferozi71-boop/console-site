@@ -51,6 +51,7 @@ export type BodyBlock =
   | { type: 'table'; headers: string[]; rows: string[][] };
 
 export interface Article {
+  takeaways?: string[];
   id: string;
   title: string;
   slug: string;
@@ -114,7 +115,7 @@ export const CATEGORY_LABELS: Record<string, string> = {
 // Each section has its own colour, used on tiles, card stripes and section headings.
 export const PLATFORM_COLORS: Record<string, string> = {
   playstation: '#2457E6',
-  xbox: '#1A8F3C',
+  xbox: '#14752F',
   nintendo: '#D62A2A',
   handhelds: '#7A3FD6',
   releases: '#1B1530',

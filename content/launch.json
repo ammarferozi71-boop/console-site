@@ -1149,6 +1149,258 @@
       "social_image": "/images/articles/october-2026-console-calendar.webp",
       "reading_time": 2,
       "created_at": "2026-10-04T10:30:00Z"
+    },
+    {
+      "id": "cb1eff46-09a3-4b1b-aea7-8fc35866468b",
+      "title": "Buying a PS5 SSD? Check the Interface, Heatsink and Fit First",
+      "slug": "ps5-ssd-expansion-before-buying",
+      "excerpt": "Capacity is only one part of a PS5 storage upgrade. Use Sony’s specifications and the exact drive’s dimensions before ordering.",
+      "hero_image": "/images/editorial/ps5-ssd.jpg",
+      "hero_image_alt": "Sony official illustration showing the PS5 M.2 SSD installation slot",
+      "hero_image_caption": "Image: Sony Interactive Entertainment / PlayStation Support",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Two drives can both say M.2 on the box and serve different purposes. For PS5 expansion, match Sony’s supported interface and form factor before comparing capacity or headline speed. A low price is not useful if the drive cannot work in the expansion slot."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Check the exact product listing",
+          "id": "check-the-exact-product-listing"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Check",
+            "What to confirm"
+          ],
+          "rows": [
+            [
+              "Interface",
+              "PCIe Gen4 x4 M.2 NVMe, Key M"
+            ],
+            [
+              "Cooling",
+              "A suitable heatsink or other supported heat-dissipation structure"
+            ],
+            [
+              "Physical fit",
+              "The drive and cooling assembly meet Sony’s size limits"
+            ],
+            [
+              "Read speed",
+              "Sony recommends 5,500 MB/s or faster"
+            ],
+            [
+              "Capacity",
+              "Sony’s listed range is 250 GB to 8 TB"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep the manufacturer’s model number with your shopping notes. Listings can combine several capacities or a bare drive and a heatsink version under one product page. Verify the dimensions of the version you are actually buying, including any attached cooling structure."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Make a storage plan before adding capacity",
+          "id": "make-a-storage-plan-before-adding-capacity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Look at the games you regularly use, the free space already available and how often you reinstall old favourites. Choose capacity around that routine. Keep budget for the complete compatible assembly rather than assuming a bare SSD is ready for the console."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Follow the instructions for your console model",
+          "id": "follow-the-instructions-for-your-console-model"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sony provides different cover-removal instructions for different PS5 model groups. Use the guide for the number on your console. Update system software and follow the official shutdown and installation procedure. This article is a shopping checklist; it does not replace Sony’s illustrated installation guide."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "After installation",
+          "id": "after-installation"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Expect the console to request formatting when the drive is first used.",
+            "Do not use a drive containing your only copy of important data.",
+            "Choose where new games install and move one familiar game as an initial test.",
+            "Keep the receipt and exact model details in case you need product support."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A compatible expansion drive adds room for your library. It does not make every game load or perform identically to another drive, and a faster number on the box is not a guaranteed gameplay improvement."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Official source",
+          "id": "official-source"
+        },
+        {
+          "type": "link",
+          "text": "Sony: supported SSD specifications and model-specific installation",
+          "url": "https://www.playstation.com/en-us/support/hardware/ps5-install-m2-ssd/"
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "9a10d067-6133-5546-af08-7a2208b4bd0e",
+      "tags": [
+        "buying-advice",
+        "ps5-pro"
+      ],
+      "publish_date": "2026-10-04T00:00:00Z",
+      "updated_date": "2026-10-04T00:00:00Z",
+      "featured": false,
+      "trending": false,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Buying a PS5 SSD? Check the Interface, Heatsink and Fit First",
+      "seo_description": "Capacity is only one part of a PS5 storage upgrade. Use Sony’s specifications and the exact drive’s dimensions before ordering.",
+      "canonical_url": null,
+      "social_image": "/images/editorial/ps5-ssd.jpg",
+      "reading_time": 2,
+      "created_at": "2026-10-04T14:00:00Z",
+      "takeaways": [
+        "PS5 expansion uses a supported PCIe Gen4 x4 M.2 NVMe SSD, not an M.2 SATA drive.",
+        "The heatsink and drive must fit together inside Sony’s dimensional limits.",
+        "Formatting the new drive erases its existing data."
+      ]
+    },
+    {
+      "id": "fd1c9d3e-ebd9-4e49-a9a4-3026587dbf68",
+      "title": "Steam Deck Verified, Playable or Unknown: What to Check Before Buying",
+      "slug": "steam-deck-verified-before-buying",
+      "excerpt": "Read the compatibility details, then judge controls, text size and your own games instead of treating a badge as a performance score.",
+      "hero_image": "/images/editorial/deck.jpg",
+      "hero_image_alt": "Steam Deck Verified, Playable or Unknown: What to Check Before Buying — official Valve artwork",
+      "hero_image_caption": "Image: Valve",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Start with the games you intend to play. A handheld can fit your routine beautifully and still be the wrong purchase if your essential title is unsupported or uncomfortable to use on a small display. Valve’s compatibility labels make a useful first filter, but the details matter more than the colour of the badge."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Read the four labels accurately",
+          "id": "read-the-four-labels-accurately"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Label",
+            "How to use it"
+          ],
+          "rows": [
+            [
+              "Verified",
+              "Valve reports an experience that works out of the box"
+            ],
+            [
+              "Playable",
+              "Read the setup or usability notes before deciding"
+            ],
+            [
+              "Unsupported",
+              "Check the stated compatibility problem"
+            ],
+            [
+              "Unknown",
+              "Valve has not completed a compatibility review"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Valve’s checks cover input, display, launcher behaviour and system support. That gives you useful information about the practical experience, including whether you need the touchscreen or an on-screen keyboard. It does not guarantee your preferred graphics preset, battery life or performance in every scene."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Build a short personal compatibility list",
+          "id": "build-a-short-personal-compatibility-list"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Write down your five most important games rather than a general wish list.",
+            "Open each game’s current store compatibility details.",
+            "Read the notes for Playable games and decide whether the extra step suits you.",
+            "Check the publisher’s launcher, account and online requirements."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Think about the session, not only the specification",
+          "id": "think-about-the-session-not-only-the-specification"
+        },
+        {
+          "type": "paragraph",
+          "text": "A game with dense menus and small text might suit a desk and larger display even when it launches successfully on a handheld. Conversely, a controller-friendly game you play in short sessions may be a better portable choice than the most demanding title in your library. Judge the device around the sessions you actually want to create."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Recheck after significant updates",
+          "id": "recheck-after-significant-updates"
+        },
+        {
+          "type": "paragraph",
+          "text": "Game and system updates can change compatibility. Treat an old video or forum post as a dated experience, then compare it with current store notes and the publisher’s support information. If offline play matters to you, test that requirement independently rather than assuming a compatibility badge promises it."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Official source",
+          "id": "official-source"
+        },
+        {
+          "type": "link",
+          "text": "Valve: Deck Verified categories and review criteria",
+          "url": "https://www.steamdeck.com/en/verified"
+        },
+        {
+          "type": "link",
+          "text": "Compare a handheld PC with Switch 2",
+          "url": "/handhelds/handheld-pc-vs-switch-2"
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "6689bb20-0ad1-579e-83c4-60d4999fe7b1",
+      "tags": [
+        "buying-advice"
+      ],
+      "publish_date": "2026-10-04T00:00:00Z",
+      "updated_date": "2026-10-04T00:00:00Z",
+      "featured": false,
+      "trending": false,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Steam Deck Verified, Playable or Unknown: What to Check Before Buying",
+      "seo_description": "Read the compatibility details, then judge controls, text size and your own games instead of treating a badge as a performance score.",
+      "canonical_url": null,
+      "social_image": "/images/editorial/deck.jpg",
+      "reading_time": 2,
+      "created_at": "2026-10-04T14:00:00Z",
+      "takeaways": [
+        "Verified and Playable describe compatibility, not a promised frame rate.",
+        "Playable titles may require manual setup; read the specific notes.",
+        "Unknown means not yet reviewed, rather than confirmed unsupported."
+      ]
     }
   ],
   "deals": [],
