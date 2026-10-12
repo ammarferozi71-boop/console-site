@@ -374,7 +374,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Both consoles use the same Game Pass tiers. For an example of how the tiers differ for a new release, see [which Game Pass tier includes Gears of War: E-Day](/xbox/gears-of-war-e-day-game-pass-tiers)."
+          "text": "Both consoles use the same Game Pass tiers. For an example of how the tiers differ for a new release, see [which Game Pass tier includes Gears of War: E-Day](/xbox/gears-of-war-e-day-game-pass-tiers). To compare the tiers themselves, see [Xbox Game Pass tiers compared](/xbox/xbox-game-pass-tiers-compared)."
         }
       ],
       "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
@@ -781,6 +781,10 @@
             "**You have Premium or Essential:** you would need to upgrade your tier or buy the game.",
             "**You only want this one game and will keep playing for months:** compare the price of the game with the cost of the months you would subscribe."
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For each tier's price and what it includes, see [Xbox Game Pass Essential, Premium and Ultimate compared](/xbox/xbox-game-pass-tiers-compared)."
         },
         {
           "type": "paragraph",
@@ -1790,9 +1794,9 @@
       "title": "Xbox Game Pass Essential vs Premium vs Ultimate: Prices, What You Get and Which to Pick",
       "slug": "xbox-game-pass-tiers-compared",
       "excerpt": "Game Pass Ultimate is $22.99 and PC Game Pass $13.99 a month since April 21, 2026. What each tier includes, the Call of Duty change and which to pick.",
-      "hero_image": "",
-      "hero_image_alt": "Xbox Game Pass Essential vs Premium vs Ultimate: Prices, What You Get and Which to Pick",
-      "hero_image_caption": "",
+      "hero_image": "/images/articles/xbox-game-pass-tiers-compared-hero.webp",
+      "hero_image_alt": "Price card for Xbox Game Pass in the US after the April 21, 2026 change: Essential $9.99 and Premium $14.99 a month as reported by Pure Xbox, PC Game Pass $13.99 and Ultimate $22.99 a month from Xbox Wire",
+      "hero_image_caption": "Graphic: SaveSlot, drawn from the prices on this page",
       "body": [
         {
           "type": "paragraph",
@@ -1969,7 +1973,7 @@
       "seo_title": "Xbox Game Pass Tiers Compared: Essential, Premium, Ultimate",
       "seo_description": "Game Pass Ultimate is $22.99 and PC Game Pass $13.99 a month since April 21, 2026. What each tier includes, the Call of Duty change and which to pick.",
       "canonical_url": null,
-      "social_image": null,
+      "social_image": "/images/articles/xbox-game-pass-tiers-compared-social.png",
       "reading_time": 3,
       "created_at": "2026-10-11T12:31:46Z"
     }
