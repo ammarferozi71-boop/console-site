@@ -1976,6 +1976,214 @@
       "social_image": "/images/articles/xbox-game-pass-tiers-compared-social.png",
       "reading_time": 3,
       "created_at": "2026-10-11T12:31:46Z"
+    },
+    {
+      "id": "1d6295f2-720c-4540-b0af-3599214b906d",
+      "title": "Nintendo Switch Online vs Expansion Pack: Price, What You Get and Which to Pick",
+      "slug": "nintendo-switch-online-vs-expansion-pack",
+      "excerpt": "US prices for Nintendo Switch Online and the Expansion Pack, what each tier includes on Switch and Switch 2, and which one fits how you play.",
+      "hero_image": "/images/articles/nintendo-switch-online-vs-expansion-pack-hero.webp",
+      "hero_image_alt": "Graphic comparing US prices from Nintendo's support page: Nintendo Switch Online $19.99 for 12 months individual and $34.99 for 12 months family; Expansion Pack $49.99 individual plan and $79.99 family plan",
+      "hero_image_caption": "Graphic: SaveSlot, made from Nintendo's US support pages",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "**In the US, Nintendo's support page (read 13 Oct 2026) lists a 12-month Nintendo Switch Online individual membership at $19.99 and the Nintendo Switch Online + Expansion Pack individual plan at $49.99, with no monthly or three-month Expansion Pack option.** The Expansion Pack adds more classic game libraries and some downloadable content at no extra charge. Some of it, including the GameCube library, works only on Nintendo Switch 2."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Prices in the US",
+          "id": "prices-in-the-us"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nintendo says membership pricing depends on the length of the membership and the country where it is used. These are the US prices listed on its support page as of 13 Oct 2026."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Plan as listed by Nintendo",
+            "US price"
+          ],
+          "rows": [
+            [
+              "Nintendo Switch Online, 1 month, individual",
+              "$3.99"
+            ],
+            [
+              "Nintendo Switch Online, 3 months, individual",
+              "$7.99"
+            ],
+            [
+              "Nintendo Switch Online, 12 months, individual",
+              "$19.99"
+            ],
+            [
+              "Nintendo Switch Online, 12 months, family",
+              "$34.99"
+            ],
+            [
+              "Nintendo Switch Online + Expansion Pack, individual",
+              "$49.99"
+            ],
+            [
+              "Nintendo Switch Online + Expansion Pack, family",
+              "$79.99"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The support page does not list monthly or three-month Expansion Pack plans."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What each tier includes",
+          "id": "what-each-tier-includes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nintendo's US pages list what comes with each tier, and mark some items as Nintendo Switch 2 only."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Feature",
+            "Switch Online",
+            "+ Expansion Pack"
+          ],
+          "rows": [
+            [
+              "Online play and the Nintendo Switch App",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Save Data Cloud Backup",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Nintendo Music",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Special Offers (US and Canada)",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "GameChat (Nintendo Switch 2)",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "NES, Super NES and Game Boy libraries",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Nintendo 64, SEGA Genesis, Game Boy Advance and Virtual Boy libraries",
+              "No",
+              "Yes"
+            ],
+            [
+              "Nintendo GameCube library (Nintendo Switch 2 only)",
+              "No",
+              "Yes"
+            ],
+            [
+              "Zelda: Breath of the Wild and Tears of the Kingdom Switch 2 Edition upgrade packs (game required)",
+              "No",
+              "Yes"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nintendo's classic games page lists Nintendo Switch 2, Nintendo Switch, Nintendo Switch Lite and Nintendo Switch OLED Model as supported products, and says the GameCube library is only playable on Nintendo Switch 2. Nintendo says GameChat could be used without a membership until the end of March 2026, and that it now needs one."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What the Expansion Pack adds on Switch 2",
+          "id": "what-the-expansion-pack-adds-on-switch-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nintendo's announcement for Switch 2 listed The Legend of Zelda: The Wind Waker, F-ZERO GX and SOULCALIBUR II among the GameCube games for Expansion Pack members, and said more games were coming. Members also get upgrade packs that let them play the Nintendo Switch 2 Editions of Breath of the Wild and Tears of the Kingdom at no additional cost, but they need to own the Nintendo Switch version of each game. Nintendo's UK page says the upgrade packs are included for the duration of the membership."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Downloadable content in the Expansion Pack",
+          "id": "downloadable-content-in-the-expansion-pack"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nintendo's US support page says the Expansion Pack includes access to select downloadable content at no additional charge. Nintendo's UK page names three packs, each needing the base game: Mario Kart 8 Deluxe – Booster Course Pass, Animal Crossing: New Horizons – Happy Home Paradise and Splatoon 2: Octo Expansion. Nintendo's UK page says the Booster Course Pass adds 48 remastered courses."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Which tier to pick",
+          "id": "which-tier-to-pick"
+        },
+        {
+          "type": "list",
+          "items": [
+            "**You mainly play online or want cloud saves.** The base tier covers online play, Save Data Cloud Backup and the NES, Super NES and Game Boy libraries.",
+            "**You have a Switch 2 and want GameCube games or the Zelda Switch 2 Editions.** Those come only with the Expansion Pack, and the upgrade packs need the original games.",
+            "**You own Mario Kart 8 Deluxe, Animal Crossing: New Horizons or Splatoon 2 and want their add-ons.** Nintendo's UK page lists those packs in the Expansion Pack.",
+            "**You play on an original Switch or Switch Lite.** Nintendo says the GameCube library is only playable on Nintendo Switch 2, so that part of the Expansion Pack does not apply.",
+            "**Several people in your home play.** The 12-month family plan for the base tier costs $34.99, and the Expansion Pack family plan costs $79.99."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Our [Switch 2 vs Switch guide](/nintendo/switch-2-vs-switch) covers the hardware choice, and our [Xbox Game Pass tiers comparison](/xbox/xbox-game-pass-tiers-compared) does the same job for Xbox."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sources",
+          "id": "sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Nintendo support, How much does a Nintendo Switch Online membership cost](https://en-americas-support.nintendo.com/app/answers/detail/a_id/41194)",
+            "[Nintendo support, Nintendo Switch Online service FAQ](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22521)",
+            "[Nintendo support, Nintendo Classics overview and FAQ](https://en-americas-support.nintendo.com/app/answers/detail/a_id/41205)",
+            "[Nintendo, What's new with Nintendo Switch Online on Nintendo Switch 2](https://www.nintendo.com/us/whatsnew/whats-new-with-nintendo-switch-online-on-nintendo-switch-2/)",
+            "[Nintendo UK, Nintendo Switch Online + Expansion Pack, what's included](https://www.nintendo.com/en-gb/Nintendo-Switch-Online/Nintendo-Switch-Online-Expansion-Pack/Nintendo-Switch-Online-Expansion-Pack-What-s-included-2060571.html)"
+          ]
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "eb07ecb3-c2c7-59c9-98df-baac2ac0269f",
+      "tags": [
+        "nintendo-switch-online",
+        "switch-2",
+        "subscriptions",
+        "buying-advice"
+      ],
+      "publish_date": "2026-10-13T12:16:15Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": false,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Switch Online vs Expansion Pack: Which to Pick | SaveSlot",
+      "seo_description": "US prices for Nintendo Switch Online and the Expansion Pack, what each tier includes on Switch and Switch 2, and which one fits how you play.",
+      "canonical_url": null,
+      "social_image": "/images/articles/nintendo-switch-online-vs-expansion-pack-social.png",
+      "reading_time": 3,
+      "created_at": "2026-10-13T12:16:15Z"
     }
   ],
   "deals": [],
