@@ -21,7 +21,7 @@ export function SubscriptionCompare({ rows }: { rows: SubRow[] }) {
     () => comparePlans(rows, region, perk ? { mustHave: [perk] } : {}) as Plan[],
     [rows, region, perk],
   );
-  const perks = useMemo(() => [...new Set(rows.filter((r) => r.region === region).flatMap((r) => r.perks))].sort(), [rows, region]);
+  const perks = useMemo(() => Array.from(new Set(rows.filter((r) => r.region === region).flatMap((r) => r.perks))).sort(), [rows, region]);
 
   return (
     <div className="mt-8">
