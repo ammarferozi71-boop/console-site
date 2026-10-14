@@ -2184,6 +2184,170 @@
       "social_image": "/images/articles/nintendo-switch-online-vs-expansion-pack-social.png",
       "reading_time": 3,
       "created_at": "2026-10-13T12:16:15Z"
+    },
+    {
+      "id": "f438d362-f74d-4c9f-8944-059228e217a6",
+      "title": "Switch 2 Game-Key Cards Explained: What You Need Before You Buy",
+      "slug": "switch-2-game-key-cards-explained",
+      "excerpt": "What a Nintendo Switch 2 game-key card is, what you need before you buy one, and how to play it offline, from Nintendo's own pages.",
+      "hero_image": "/images/articles/switch-2-game-key-cards-explained-hero.webp",
+      "hero_image_alt": "SaveSlot graphic summarising Nintendo's game-key card facts: the card does not hold the full game data and is a key to download it, card must be inserted to play, internet needed only at first launch, system version 20.1.1 or higher",
+      "hero_image_caption": "Graphic: SaveSlot, made from Nintendo's pages",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "**A Nintendo Switch 2 game-key card does not hold the full game: it is a key that lets your console download the game over the internet.**  You still have to insert the card to play,  but after the first launch the game starts without an internet connection. "
+        },
+        {
+          "type": "paragraph",
+          "text": "This guide uses Nintendo's US support page and Nintendo's UK Switch 2 game-key card page, read on 14 Oct 2026. Neither page shows a publish date.  "
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What a game-key card is",
+          "id": "what-a-game-key-card-is"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nintendo's support page says game-key cards don't contain the full game data.  The card is your \"key\" to downloading the full game to your system via the internet, and when you insert it, instructions appear on the HOME Menu.  Nintendo's UK page goes further and says there is no game data saved on a game-key card. "
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Game-key card facts at a glance",
+          "id": "game-key-card-facts-at-a-glance"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Question",
+            "What Nintendo says",
+            "Nintendo page"
+          ],
+          "rows": [
+            [
+              "Is the game on the card?",
+              "It doesn't contain the full game data; the card is a key to download the game",
+              "US support page"
+            ],
+            [
+              "Does the card need to be inserted?",
+              "Yes, like regular physical software, it must be inserted to play",
+              "US support page"
+            ],
+            [
+              "Do I need the internet?",
+              "Only the first time you launch the game",
+              "US support page"
+            ],
+            [
+              "Do I need a Nintendo Account?",
+              "Not to download the game data",
+              "US support page"
+            ],
+            [
+              "Which system version?",
+              "20.1.1 or higher",
+              "US support page"
+            ],
+            [
+              "Can I play on another console?",
+              "Yes, by inserting the card there and following the same steps",
+              "UK page"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What you need before you buy",
+          "id": "what-you-need-before-you-buy"
+        },
+        {
+          "type": "list",
+          "items": [
+            "An internet connection for the first launch of the game.",
+            "Enough free space in your Nintendo Switch 2 system memory or on a microSD Express card.  The amount needed is indicated on the game-key card packaging.",
+            "A system updated to version 20.1.1 or higher.",
+            "No Nintendo Account for the download: Nintendo says one is not required to download the game data."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to spot a game-key card",
+          "id": "how-to-spot-a-game-key-card"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nintendo's UK page says there is a key icon on the top right of the front of the game-key card itself. "
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Playing offline and on another console",
+          "id": "playing-offline-and-on-another-console"
+        },
+        {
+          "type": "paragraph",
+          "text": "After the first launch, Nintendo says the game can be started even without an internet connection.  The card still has to be inserted in order to play.  Nintendo's UK page says that if you insert the card into another console, the game can also be played there by following the same steps. "
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What Nintendo's pages do not say",
+          "id": "what-nintendos-pages-do-not-say"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nintendo's US support page does not cover where save data is stored for games played this way, and neither Nintendo page read for this guide covers lending or reselling a game-key card.   If those points matter to you, check Nintendo's support site before you buy."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related guides",
+          "id": "related-guides"
+        },
+        {
+          "type": "paragraph",
+          "text": "Game-key cards are a Nintendo Switch 2 format, and the download goes to system memory or a microSD Express card.  If you are still choosing hardware, see [Switch 2 vs Switch](/nintendo/switch-2-vs-switch). For online play and the classic game libraries, see [Nintendo Switch Online vs Expansion Pack](/nintendo/nintendo-switch-online-vs-expansion-pack)."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sources",
+          "id": "sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Nintendo Support: Nintendo Switch 2 Game-Key Card Overview](https://en-americas-support.nintendo.com/app/answers/detail/a_id/68415/)",
+            "[Nintendo UK: Nintendo Switch 2 Game-Key Cards](https://www.nintendo.com/en-gb/Hardware/Nintendo-Switch-2/Nintendo-Switch-2-Game-Key-Cards-2785635.html)"
+          ]
+        }
+      ],
+      "author_id": "f3d617d4-3b76-53a5-953f-c71bdd9c5c94",
+      "category_id": "eb07ecb3-c2c7-59c9-98df-baac2ac0269f",
+      "tags": [
+        "game-key-cards",
+        "switch-2",
+        "nintendo",
+        "buying-advice"
+      ],
+      "publish_date": "2026-10-14T01:22:51Z",
+      "updated_date": null,
+      "featured": false,
+      "trending": false,
+      "editor_choice": false,
+      "review_score": null,
+      "review_product": null,
+      "seo_title": "Switch 2 Game-Key Cards Explained | SaveSlot",
+      "seo_description": "What a Nintendo Switch 2 game-key card is, what you need before you buy one, and how to play it offline, from Nintendo's own pages.",
+      "canonical_url": null,
+      "social_image": "/images/articles/switch-2-game-key-cards-explained-social.png",
+      "reading_time": 2,
+      "created_at": "2026-10-14T01:22:51Z"
     }
   ],
   "deals": [],
