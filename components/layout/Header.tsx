@@ -9,6 +9,7 @@ import { PLATFORM_COLORS } from '@/lib/types';
 
 const NAV_ITEMS = [
   { label: 'PlayStation', href: '/playstation', slug: 'playstation' },
+  { label: 'Compare plans', href: '/tools/subscriptions', slug: 'tools' },
   { label: 'Xbox', href: '/xbox', slug: 'xbox' },
   { label: 'Nintendo', href: '/nintendo', slug: 'nintendo' },
   { label: 'Handhelds', href: '/handhelds', slug: 'handhelds' },
