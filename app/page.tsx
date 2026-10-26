@@ -1,3 +1,4 @@
+import { safeJsonLd } from '@/lib/structured-data.mjs';
 import { DiscoveryPaths } from '@/components/editorial/DiscoveryPaths';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -72,7 +73,7 @@ export default async function HomePage() {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(jsonLd) }} />
 
       <section className="mx-auto max-w-6xl px-4 pt-10 sm:px-6 sm:pt-14">
         <h1 className="max-w-3xl text-4xl font-extrabold leading-[1.05] tracking-tight sm:text-6xl">

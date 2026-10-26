@@ -1,0 +1,47 @@
+{
+  "scope": "US public 12-month list prices only, checked on the provider page. Monthly prices withheld because provider store wording conflicts. Checkout, tax and eligibility can differ.",
+  "records": [
+    {
+      "status": "confirmed",
+      "observed_at": "2026-10-26T13:57:11Z",
+      "expires_at": "2026-11-02T13:57:11Z",
+      "id": "ps-plus-essential",
+      "kind": "subscription",
+      "name": "PlayStation Plus Essential",
+      "region": "US",
+      "currency": "USD",
+      "monthly_price": null,
+      "annual_price": 79.99,
+      "source_url": "https://www.playstation.com/en-us/ps-plus/",
+      "evidence_note": "Public twelve-month billing option; no monthly billing amount asserted."
+    },
+    {
+      "status": "confirmed",
+      "observed_at": "2026-10-26T13:57:11Z",
+      "expires_at": "2026-11-02T13:57:11Z",
+      "id": "ps-plus-extra",
+      "kind": "subscription",
+      "name": "PlayStation Plus Extra",
+      "region": "US",
+      "currency": "USD",
+      "monthly_price": null,
+      "annual_price": 134.99,
+      "source_url": "https://www.playstation.com/en-us/ps-plus/",
+      "evidence_note": "Public twelve-month billing option; no monthly billing amount asserted."
+    },
+    {
+      "status": "confirmed",
+      "observed_at": "2026-10-26T13:57:11Z",
+      "expires_at": "2026-11-02T13:57:11Z",
+      "id": "ps-plus-premium",
+      "kind": "subscription",
+      "name": "PlayStation Plus Premium",
+      "region": "US",
+      "currency": "USD",
+      "monthly_price": null,
+      "annual_price": 159.99,
+      "source_url": "https://www.playstation.com/en-us/ps-plus/",
+      "evidence_note": "Public twelve-month billing option; no monthly billing amount asserted."
+    }
+  ]
+}
